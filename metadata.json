@@ -1,0 +1,6 @@
+{
+  "name": "AnimeMaker",
+  "description": "AI-powered anime video generator from text and images.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
